@@ -1,4 +1,4 @@
-[img]https://tietu.mclists.cn/banner/play.kabumc.xyz_25565.jpg[/img]
+![KabuMC](https://tietu.mclists.cn/banner/play.kabumc.xyz_25565.jpg)
 
 # KabuMC
 
