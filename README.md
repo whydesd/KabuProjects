@@ -1,3 +1,5 @@
+[img]https://tietu.mclists.cn/banner/play.kabumc.xyz_25565.jpg[/img]
+
 # KabuMC
 
 ### 由香风Kabu和EMC DreamWorks共同推出的我的世界纯净生存公益服务器
