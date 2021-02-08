@@ -11,7 +11,8 @@
 - 荧中山内w
 - 刘刘
 <br><br>
-  [![Sponsor](https://img.shields.io/badge/Sponsor%20-EMC%20DreamWorks-green?style=for-the-badge)]({https://afdian.net/@Ely_Official})
+  [![Sponsor](https://img.shields.io/badge/Sponsor-EMC_DreamWorks-green?style=for-the-badge)]({https://afdian.net/@Ely_Official})
+  [![KabuQQGroup](https://img.shields.io/badge/Join-Kabu_QQ_Group-blue?style=for-the-badge)]({https://jq.qq.com/?_wv=1027&k=iJTcpGJf})
 ------------
 ### Powered By EMC DreamWorks
 ### Support By EMC NetWork
