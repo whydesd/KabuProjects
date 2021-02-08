@@ -2,7 +2,7 @@
 ------------
 ### Project List:
 - KabuMC
-- GIML
+- [GIML](https://github.com/whydesd/DreamWorks-Projects/tree/DW-Projects/GIML)
 ------------
 ### Sponsor List:
 - 是白翼酱呐
