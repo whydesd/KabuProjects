@@ -1,8 +1,8 @@
 # DreamWorkd-Projects
 ------------
 ### Project List:
-- [KabuMC](/tree/DW-Projects/KabuMC)
-- [GIML](/tree/DW-Projects/GIML)
+- [KabuMC](KabuMC)
+- [GIML](GIML)
 ------------
 ### Sponsor List:
 - 是白翼酱呐
