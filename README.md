@@ -13,7 +13,7 @@
   <br><br>
   [![Sponsor](https://img.shields.io/badge/Sponsor-EMC_DreamWorks-green?style=for-the-badge)]({https://afdian.net/@Ely_Official})
   <br>
-  [![KabuQQGroup](https://img.shields.io/badge/Join-Kabu_QQ_Group-ff69b4?style=for-the-badge)]({https://jq.qq.com/?_wv=1027&k=iJTcpGJf})
+  [![KabuQQGroup](https://img.shields.io/badge/Join-Kabu_QQ_Group-9cf?style=for-the-badge)]({https://jq.qq.com/?_wv=1027&k=iJTcpGJf})
 ------------
 ### Powered By EMC DreamWorks
 ### Support By EMC NetWork
