@@ -1,4 +1,4 @@
-# DreamWorkd-Projects
+# DreamWorks-Projects
 ------------
 ### Project List:
 - [KabuMC](KabuMC)
