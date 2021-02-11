@@ -1,7 +1,7 @@
 # DreamWorks-Projects
 ------------
 ### Project List:
-- [KabuMC](KabuMC)
+- [GIMC](GIMC)
 - [GIML](GIML)
 ------------
 ### Sponsor List:
@@ -15,7 +15,7 @@
   <br>
   [![Forum](https://img.shields.io/badge/Visit-DreamWorks_Forum-red?style=for-the-badge)]({https://forum.emcdw.net})
   <br>
-  [![KabuQQGroup](https://img.shields.io/badge/Join-Kabu_QQ_Group-blue?style=for-the-badge)]({https://jq.qq.com/?_wv=1027&k=iJTcpGJf})
+  [![GIMCQQGroup](https://img.shields.io/badge/Join-GIMC_QQ_Group-blue?style=for-the-badge)]({https://jq.qq.com/?_wv=1027&k=T9MAcnJJ})
 ------------
 ### Powered By EMC DreamWorks
 ### Support By EMC NetWork
